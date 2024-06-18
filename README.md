@@ -1,5 +1,5 @@
 ## Hi there 👋
-### 언어와컴퓨터1
+### 언어와컴퓨터1 0618 실습
 
 <!--
 **Seokhwa0/Seokhwa0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
